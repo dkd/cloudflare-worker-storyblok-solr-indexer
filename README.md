@@ -1,0 +1,1 @@
+# cloudflare-worker-storyblok-solr-indexer

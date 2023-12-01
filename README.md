@@ -1,5 +1,7 @@
 # Cloudflare Worker Storyblok Solr Indexer
 
+Cloudflare worker which runs the Storyblok Solr Indexer which can be triggert via Storyblok webhook.
+
 ## Config 
 
 Set the Env Vars in your `wrangler.toml`

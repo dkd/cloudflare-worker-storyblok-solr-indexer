@@ -1,5 +1,4 @@
-# About
-Cloudflare Worker Storyblok Solr Indexer
+# Cloudflare Worker Storyblok Solr Indexer
 
 ## Config 
 

@@ -27,3 +27,14 @@ Run `npm run deploy` to publish your worker
 
 Learn more at https://developers.cloudflare.com/workers/
 
+## Indexer 
+
+Find the out more about the Indexer here: 
+
+https://github.com/dkd/storyblok-solr-indexer
+
+## Hosted Solr
+
+You can host your Solr core here:
+
+https://hosted-solr.com/de/
